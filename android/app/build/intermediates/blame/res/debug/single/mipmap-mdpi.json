@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wangal8/Workspace/01_MyWork/35_MyCashBackApp/iCashBack/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/wangal8/Workspace/01_MyWork/35_MyCashBackApp/iCashBack/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wangal8/Workspace/01_MyWork/35_MyCashBackApp/iCashBack/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_png.png",
+        "source": "/Users/wangal8/Workspace/01_MyWork/35_MyCashBackApp/iCashBack/android/app/src/main/res/mipmap-mdpi/ic_launcher_png.png"
+    }
+]

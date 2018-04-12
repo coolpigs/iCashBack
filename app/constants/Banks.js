@@ -1,0 +1,1 @@
+export const THINGSPACE_DEVICE = '/devices/%s';
